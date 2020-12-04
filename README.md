@@ -8,6 +8,9 @@ This PCB is a dead quiet, simple drop-in for any pedal, and should work with any
 
 [Buy VU meter PCB here](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false) or use the files in this repository to create your own.
 
+[![VU meter driver](./VU-meter-driver.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
+[![VU meter driver PCBs](./VU-pcbs-and-meter.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
+
 ## Building and Adjusting
 
 Assembly should be straightforward, but contact me if you'd like a detailed build doc.
