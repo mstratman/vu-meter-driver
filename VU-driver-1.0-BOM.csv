@@ -1,0 +1,13 @@
+Designator,Name,Quantity,Notes
+U1,TL071,1,
+"C1,C2",47n,2,
+C3,10u,1,Electrolytic
+C4,3.3u,1,Electrolytic
+C5,1u,1,Electrolytic
+R1,4.7M,1,1/8W
+R2,4.7k,1,1/8W
+"R3,R7,R8",1M,3,1/8W
+R4,47k,1,1/8W
+"R5,R6",3.3k,2,1/8W
+RV,1M,1,Trimmer
+"D1,D2",1N5817,2,
