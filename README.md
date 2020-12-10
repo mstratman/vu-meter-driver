@@ -11,24 +11,8 @@ You can get the meters dirt cheap, and scavenge them from battery testers, CB te
 
 [![VU meter driver](./VU-meter-driver.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
 [![VU meter driver PCBs](./VU-pcbs-and-meter.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
+[![VU meter driver hookup](./VU-hookup.png)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
 
-## Building and Adjusting
+## Instructions
 
-Assembly should be straightforward, but contact me if you'd like a detailed build doc.
-
-The level can be adjusted using RV. Although the PCB has holes for a trimmer, you can absolutely use an off-board potentiometer, fixed resistor, or even multiple resistors selectable with a toggle switch.
-
-Perhaps not surprisingly, you will find this responds differently to humbuckers and single coil pickups.  Having an off-board potentiometer or toggle switch can make it a lot more convenient to use than a trimmer.
-
-## Modifications
-
-#### Needle speed
-
-You can adjust the value of C4 to alter how quickly the needle rises falls back down.
-100uF, for example, will slow it down considerably.
-
-#### Reducing bass responsiveness
-
-By default the low notes will push the needle harder than higher notes. If you want to counteract this you can try decreasing the value of either C2 or C3.
-
-For example, changing C3 to 100nF will tame the needle when strumming heavily on the lower strings.
+See the build documents at <https://mas-effects.com/vu.pdf>
