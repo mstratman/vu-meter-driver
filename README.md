@@ -13,6 +13,10 @@ You can get the meters dirt cheap, and scavenge them from battery testers, CB te
 [![VU meter driver PCBs](./VU-pcbs-and-meter.jpg)](https://shop.mas-effects.com/products/vu-meter-driver)
 [![VU meter driver hookup](./VU-hookup.png)](https://shop.mas-effects.com/products/vu-meter-driver)
 
+## Schematic
+
+[Schematic is available here](./VU-driver-1.0-schematic.png)
+
 ## Instructions
 
 See the build documents at <https://mas-effects.com/vu.pdf>
