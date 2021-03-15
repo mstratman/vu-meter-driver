@@ -7,11 +7,11 @@ It provides a decorative dancing needle to your audio projects, but understand t
 You can get the meters dirt cheap, and scavenge them from battery testers, CB testers, and other old junk.  You can also find plenty for sale new by searching "*DC needle meter*" or similar search terms.
 
 
-[Buy VU meter PCB here](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false) or use the files in this repository to create your own.
+[Buy VU meter PCB here](https://shop.mas-effects.com/products/vu-meter-driver) or use the files in this repository to create your own.
 
-[![VU meter driver](./VU-meter-driver.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
-[![VU meter driver PCBs](./VU-pcbs-and-meter.jpg)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
-[![VU meter driver hookup](./VU-hookup.png)](https://mas-effects.square.site/product/vu-meter-driver/53?cp=true&sa=true&sbp=false&q=false)
+[![VU meter driver](./VU-meter-driver.jpg)](https://shop.mas-effects.com/products/vu-meter-driver)
+[![VU meter driver PCBs](./VU-pcbs-and-meter.jpg)](https://shop.mas-effects.com/products/vu-meter-driver)
+[![VU meter driver hookup](./VU-hookup.png)](https://shop.mas-effects.com/products/vu-meter-driver)
 
 ## Instructions
 
